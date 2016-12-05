@@ -1,2 +1,3 @@
-Assets/*
+pet_project/Assets/*
+!pet_project/Assets/Animations/*
 .DS_Store
